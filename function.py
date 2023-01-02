@@ -9,8 +9,8 @@ b = int(input("masukan quantity barang = "))
 total = grossrevenue(a,b)
 print(f"total transaksi adalah {total} rupiah")
 
-def multiply(c,d):
-    return c * d
+def multiply(c,d,e):
+    return c * d * e
 
 
     
